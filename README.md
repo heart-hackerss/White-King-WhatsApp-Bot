@@ -27,7 +27,7 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/uwtechshow/White-King-WhatsApp-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/heart-hackerss/White-King-WhatsApp-Bot)
 
 # Install Manually 👇
 ## `Requirements`
