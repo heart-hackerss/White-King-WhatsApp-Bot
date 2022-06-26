@@ -41,26 +41,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['94761192103'] //ur owner number
-global.ownername = "Udavin Wijesundara"
-global.ytname = "YT: UW TECH SHOW" //ur yt chanel name
-global.socialm = "GitHub: udavinw" //ur github or insta name
-global.location = "Sri Lanaka" //ur location
+global.owner = ['923088373125'] //ur owner number
+global.ownername = "ANAS FIAZ"
+global.ytname = "YT: Free Quran Education" //ur yt chanel name
+global.socialm = "GitHub:GumnanShararti" //ur github or insta name
+global.location = "Pakistan" //ur location
 
 //bot bombdy
-global.botname = "White King WhatsApp Bot V-1" //ur bot name
-global.websitex = "https://www.youtube.com/channel/UC8CNAgNIXy1O2vLBBSN7tcA" //ur website
+global.botname = "DR.ANAS-FIAZ-BOT" //ur bot name
+global.websitex = "https://youtu.be/gNIxa4b-mws" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/XzaRCsA.mp4' } //gif and video menu
 global.packname = "Cheems Bot Stickers\n\n\n🦄🦄🦄 "
-global.author = "🦄Udavin Wijesundara"
-global.themeemoji = "🐶"
+global.author = "🦄DR.ANAS FIAZ"
+global.themeemoji = "😏"
 global.reactmoji = "😘"
-global.ownertag = ['94761192103'] //ur owner tag
-global.ownernummenu = ['94761192103'] //ur owner number in menu and all
-global.watermark = "UW TECH SHOW." //ur watermark
+global.ownertag = ['923088373125'] //ur owner tag
+global.ownernummenu = ['923088373125'] //ur owner number in menu and all
+global.watermark = "DR.ANAS FIAZ." //ur watermark
 global.botscript = "https://github.com/uwtechshow/White-King-WhatsApp-Bot"
-global.linkz1 = "https://chat.whatsapp.com/Ivsw8fEw5lW0n0qKEDHfUX"
-global.linkz2 = "https://chat.whatsapp.com/Jub3moTE7jaBERo8DqWXC1"
+global.linkz1 = "https://chat.whatsapp.com/F0vueS2rtN33Uq5Qqurl3y"
+global.linkz2 = "https://youtu.be/QKekxfDie7U"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
